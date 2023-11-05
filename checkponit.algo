@@ -1,0 +1,31 @@
+ALGORITHM checkpoint
+var 
+nbvoyelle: INTEGER=0,
+phrase: string;
+taillephrase: INTEGER:0;
+nbmots: INTEGER:0;
+
+begin
+while (phrase[i] !='.') do
+    taillephrase:= taillephrase +1;
+end_while
+  write(taillephrase);
+
+for i from 0 to taillephrase do 
+if phrase[i]==voyelle 
+nbvoyelle:=nbvoyelle+1,
+end if ;++;
+   end_for
+write(nbvoyelle);
+
+ for i from 0 to taillephrase
+ if phrase [j]==''
+ end if :++;
+ end for 
+ write(taillephrase);
+
+
+   
+ end_for
+ write(nbmots);
+end.
